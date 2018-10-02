@@ -1,4 +1,4 @@
 # RedMAssessment
 Assessment
 
-topic_modelling.ipynb is the main in this project
+topic_modelling.ipynb is the main file in this project
