@@ -1,4 +1,3 @@
-<p style="margin: 0px 0px 10.66px;"><span style="margin: 0px; line-height: 106%; font-size: 12pt;"># RedMAssessment</span></p>
 <p style="margin: 0px 0px 10.66px;"><span style="margin: 0px; line-height: 106%; font-size: 12pt;"># Special thanks to <span style="margin: 0px;"><a href="https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24">Topic Modeling and Latent Dirichlet Allocation (LDA) in Python</a></span></span></p>
 <p style="margin: 0px 0px 10.66px;"><span style="margin: 0px; line-height: 106%; font-size: 12pt;">&nbsp;</span></p>
 <p style="margin: 0px 0px 10.66px;"><span style="margin: 0px; line-height: 106%; font-size: 12pt;">Main Input File: topic_modelling.ipynb, topic_modeling_data.json</span></p>
